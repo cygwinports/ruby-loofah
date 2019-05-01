@@ -1,7 +1,7 @@
 inherit rubygem
 
 NAME="ruby-loofah"
-VERSION=2.0.3
+VERSION=2.2.2
 RELEASE=1
 CATEGORY="Ruby"
 SUMMARY="Ruby HTML/XML manipulation library"
